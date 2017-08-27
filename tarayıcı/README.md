@@ -1,35 +1,30 @@
 ====================
-OpenFire AdminFinder
+Admin Panel TarayÄ±cÄ±
 ====================
 
-                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                  
-                                  + - ++ - ++ - ++ - ++ - ++ - ++ - ++ - +++ - ++ - ++ - ++ - ++ - ++ - ++ - ++ - +
-                                  | O || p || e || n || f || i || R || E | | S || e || c || u || r || i || t || y |
-                                  + - ++ - ++ - ++ - ++ - ++ - ++ - ++ - +++ - ++ - ++ - ++ - ++ - ++ - ++ - ++ - +
-                          OpenFire Teknolojileri || OpenFire AdminFinder Sürüm 1 (beta)
-                                          Telif Hakkı @ OpenFire Technologies
-                                               Kodlanmış: nu11-v0! D
-                                          Web sitesi: www.openfire-security.net
-                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â |ADMIN||PANEL||TARACICI|
+                  #  |P||4||R||S||.||N||E||T|
+                   #  BY: |T||O||L||I||Z||U||G||4|
+
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++
 Beni oku:
 ++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++
-"Perl" Komut Dosyası Dili üzerine kodlanmış bir Yönetici Bulucu'dur.
-Temel olarak Kimlik Doğrulama Bypass'ı ve daha pek çok yönüyle "admin sayfaları" nı kontrol etmeye başlar.
-Almak isteyen yönetici sayfası için kullanıcı girdisini kontrol etme ve alma özelliğine sahiptir, yani, yönetici sayfası
-hangi platform (Asp, PHP vs.) için.
-Hızlı arama için yardımcı olur ve içinde verilen farklı idari imkânları bulmak için zamanı azaltır.
-Ayrıca web sitesinde hangi platformda olduğunu bilmeyen kişi için bir seçenek de vardır, dolayısıyla tüm olasılıkları arbitrary olarak bulur.
-
-Şu anda Beta Sahnesinde. Bu yüzden kontrol edip bana geribildirim verin.
-
+"Perl" Komut DosyasÄ± Dili Ã¼zerine kodlanmÄ±ÅŸ bir Admin Panel Bulucu'dur.
+Temel olarak Kimlik DoÄŸrulama Bypass'Ä± ve daha pek Ã§ok yÃ¶nÃ¼yle "admin sayfalarÄ±" nÄ± kontrol etmeye baÅŸlar.
+Admin Panelini HÄ±zlÄ± arama iÃ§in yardÄ±mcÄ± olur.
+AyrÄ±ca web sitesinde hangi platformda olduÄŸunu bilmeyen kiÅŸi iÃ§in bir seÃ§enek de vardÄ±r, dolayÄ±sÄ±yla tÃ¼m olasÄ±lÄ±klarÄ± araÅŸtÄ±rarak panelleri bulur.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++++++++++++++++++++++++++++
-Nasıl Çalışır?
+NasÄ±l Ã‡alÄ±ÅŸÄ±r?
 ++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++++++++++++++++++++++++++++
->> 1. Perl'i yükleyin.
->> 2. Komut satırına yazınız (Terminal Windows için linux && CMD)
->> 3. Dosyanın bulunduğu dizine gidin.
->> 4. Terminal Tipinde: "perl OpenFire_AdminFinder.pl"
->> 5. Çalışacak !! :)
+>> 1. Perl'i yÃ¼kleyin.
+>> 2. Komut satÄ±rÄ±na yazÄ±nÄ±z (Terminal Windows iÃ§in linux && CMD)
+>> 3. DosyanÄ±n bulunduÄŸu dizine gidin.
+>> 4. Terminal Tipinde: "perl AdminPanelTarayÄ±cÄ±.pl"
+>> 5. Ã‡alÄ±ÅŸacak !! :)
+
+YararlÄ± OlmasÄ± DileGiyle.
